@@ -1,4 +1,4 @@
 # coderrohit
 this is my first repository
 <br>
-Author- Rohit kumar dey
+Author- Rohit kumar dey(coder)
